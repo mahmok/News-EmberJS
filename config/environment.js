@@ -4,7 +4,7 @@ module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'news-ember',
     environment,
-    rootURL: '/',
+    rootURL: '/News-EmberJS',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
